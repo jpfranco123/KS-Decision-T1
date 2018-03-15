@@ -1,0 +1,8 @@
+PartcipantID:sddsadas
+InitialTimeStamp:13-28-03-371
+1:ItemsNoQuestion;11:ItemsWithQuestion;2:AnswerScreen;21:ParticipantsAnswer;3:InterTrialScreen;4:InterBlockScreen;5:EndScreen
+block;trial;eventType;elapsedTime
+1;1;1;75
+1;1;11;5183
+1;1;2;10239
+1;1;21;10614
